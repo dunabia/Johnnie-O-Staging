@@ -9,11 +9,11 @@ import UgcGallery from "./components/UgcGallery";
 
 function App() {
   //Instance ID
-  let InstanceId_Widget = "1236360";
-  let InstanceId_QA = "";
+  let InstanceId_Widget = "1246536";
+  let InstanceId_QA = "1246538";
   let InstanceId_SEO = "";
   let InstanceId_Carousel = "";
-  let InstanceId_StarRating = "1242224";
+  let InstanceId_StarRating = "1246539";
   let InstanceId_PromotedProd = "";
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
